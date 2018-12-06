@@ -325,6 +325,10 @@ body {
   background: white;
 }
 
+.simon-logo {
+  height: 250px;
+}
+
 .form-link #mc-embedded-subscribe {
   background-color: transparent;
   border: 1px solid #FFFFFF;
