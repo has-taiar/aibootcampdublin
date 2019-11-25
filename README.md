@@ -1,6 +1,6 @@
-# AI Bootcamp Dublin 2018
+# AI Bootcamp Melbourne, Australia 2019
 
-Code for Azure AI Bootcamp Dublin - www.azurebootcampdublin.com
+Code for Azure AI Bootcamp Melbourne, Australia - www.azureaibootcamp.me
 
 
 
